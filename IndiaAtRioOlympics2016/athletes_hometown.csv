@@ -1,0 +1,125 @@
+Athlete,Game,Gender,City,State
+Deepika Kumari,Archery,Female,Ranchi,Jharkhand
+Laxmi Rani Manjhi,Archery,Female,Chittaranjan,West Bengal
+Bombayla Devi Laishram,Archery,Female,Imphal East,Manipur
+Atanu Das,Archery,Male,,West Bengal
+Dharambir Singh,Athletics,Male,Rohtak,Haryana
+Mohammad Anas Yahiya,Athletics,Male,Nilamel,Kerala
+Jinson Johnson,Athletics,Male,Calicut,Kerala
+Ankit Sharma,Athletics,Male,Pinahat,Uttar Pradesh
+Renjith Maheshwary,Athletics,Male,Kottayam,Kerala
+Inderjeet Singh,Athletics,Male,Shaheed Bhagat Singh Nagar,Punjab
+Vikas Gowda,Athletics,Male,Mysore,Karnataka
+Nitendra Singh Rawat,Athletics,Male,Bageshwar,Uttarakhand
+Thonakal Gopi,Athletics,Male,Wayanad,Kerala
+Kheta Ram,Athletics,Male,Barmer,Rajasthan
+Manish Singh Rawat,Athletics,Male,Chamoli,Uttarakhand
+Gurmeet Singh,Athletics,Male,,Uttarakhand
+Ganapathi Krishnan,Athletics,Male,Krishnagiri,Tamil Nadu
+Sandeep Kumar,Athletics,Male,,Haryana
+Arokia Rajiv,Athletics,Male,Tiruchirappalli,Tamil Nadu
+Kunhu Muhammaed Puthanpurakal,Athletics,Male,Mannarkkad,Kerala
+Dharun Ayyasamy,Athletics,Male,Tirrupur,Tamil Nadu
+Mohankumar Raja,Athletics,Male,Chennai,Tamil Nadu
+Lalith Mathur,Athletics,Male,Delhi,Delhi
+Dutee Chand,Athletics,Female,,Odisha
+Srabani Nanda,Athletics,Female,Kandhamal,Odisha
+Nirmala Sheoran,Athletics,Female,,Haryana
+Tintu Lukka,Athletics,Female,Kannur,Kerala
+Sudha Singh,Athletics,Female,Raebareli,Uttar Pradesh
+Lalita Babar,Athletics,Female,Satara,Maharashtra
+Manpreet Kaur,Athletics,Female,,Punjab
+Seema Punia,Athletics,Female,Sonipat,Haryana
+O.P. Jaisha,Athletics,Female,,Kerala
+Kavita Raut,Athletics,Female,Nashik,Maharashtra
+Khushbir Kaur,Athletics,Female,,Punjab
+Sapna Punia,Athletics,Female,Jaipur,Rajasthan
+Poovamma Raju Machettira,Athletics,Female,Gonikoppal,Karnataka
+Anilda Thomas,Athletics,Female,,Kerala
+Jisna Mathew,Athletics,Female,,Kerala
+Ashwani Akkunji,Athletics,Female,Udupi,Karnataka
+Debashree Mazumdar,Athletics,Female,,West Bengal
+Srikanth Kidambi,Badminton,Male,Guntur,Andhra Pradesh
+Manu Attri,Badminton,Male,Meerut,Uttar Pradesh
+Sumeet Reddy Buss,Badminton,Male,,Telangana
+Saina Nehwal,Badminton,Female,Hisar,Haryana
+P.V. Sindhu,Badminton,Female,Hyderabad,Telangana
+Jwala Gutta,Badminton,Female,Wardha,Maharashtra
+Ashwini Ponnappa,Badminton,Female,Bengaluru,Karnataka
+Shiva Thapa,Boxing,Male,Guwahati,Assam
+Manoj Kumar,Boxing,Male,Kaithal,Haryana
+Vikas Krishan,Boxing,Male,Bhiwani,Haryana
+Anirban Lahiri,Golf,Male,Pune,Maharashtra
+Shivsankar Prasad Chawrasia,Golf,Male,Kolkata,West Bengal
+Aditi Ashok,Golf,Female,Bengaluru,Karnataka
+Dipa Karmakar,Gymnastics,Female,Agartala,Tripura
+Avtar Singh,Judo,Male,Gurdaspur,Punjab
+Bhoknal Dattu Baban,Rowing,Male,,Maharashtra
+Abhinav Bindra,Shooting ,Male,Dehradun,Uttarakhand
+Kynan Chenai,Shooting ,Male,Hyderabad,Telangana
+Mairaj Ahmad Khan,Shooting ,Male,Bulandshahar,Uttar Pradesh
+Prakash Nanjappa,Shooting ,Male,Bengaluru,Karnataka
+Gagan Narang,Shooting ,Male,Chennai,Tamil Nadu
+Jitu Rai,Shooting ,Male,Lucknow,Uttar Pradesh
+Chain Singh,Shooting ,Male,Doda,Jammu and Kashmir
+Gurpreet Singh,Shooting ,Male,Tarn Taran,Punjab
+Manavjit Singh Sandhu,Shooting ,Male,Amritsar,Punjab
+Apurvi Chandela,Shooting ,Female,Jaipur,Rajasthan
+Ayonika Paul,Shooting ,Female,Mumbai,Maharashtra
+Heena Sidhu,Shooting ,Female,Ludhiana,Punjab
+Sajan Prakash,Swimming,Male,,Kerala
+Shivani Kataria,Swimming,Female,,Haryana
+Achanta Sharath Kamal,Table Tennis,Male,Chennai,Tamil Nadu
+Soumyajit Ghosh,Table Tennis,Male,Siliguri,West Bengal
+Mouma Das,Table Tennis,Female,Kolkata,West Bengal
+Manik Batra,Table Tennis,Female,Delhi,Delhi
+Yogeshwar Dutt,Wrestling,Male,Gohana,Haryana
+Narsingh Pancham Yadav,Wrestling,Male,Varanasi,Uttar Pradesh
+Sandeep Tomar,Wrestling,Male,Sonipat,Haryana
+Hardeep Singh,Wrestling,Male,Jind,Haryana
+Ravinder Khatri,Wrestling,Male,,Haryana
+Sakshi Malik,Wrestling,Female,Rohtak,Haryana
+Vinesh Phogat,Wrestling,Female,Balali,Haryana
+Babita Kumari,Wrestling,Female,Bhiwani,Haryana
+Sathish Kumar Sivalingam,Weightlifting,Male,Vellore,Tamil Nadu
+Mirabhai Chanu Saikhom,Weightlifting,Female,Imphal East,Manipur
+ROHAN BOPANNA,Tennis,Male,Bengaluru,Karnataka
+LEANDER PAES,Tennis,Male,Kolkata,West Bengal
+SANIA MIRZA,Tennis,Female,Hyderabad,Telangana
+PRARTHANA THOMBARE,Tennis,Female,Solapur,Maharashtra
+Sreejesh P.R.,Hockey,Male,Kumarapuram,Tamil Nadu
+Rupinder Pal Singh,Hockey,Male,Faridkot,Punjab
+Raghunath V.R.,Hockey,Male,Hathur,Karnataka
+Kothajit Singh,Hockey,Male,Imphal East,Manipur
+Surender Kumar,Hockey,Male,,Haryana
+Harmanpreet Singh,Hockey,Male,Amritsar,Punjab
+Danish Mujtaba,Hockey,Male,Allahabad,Uttar Pradesh
+Chinglensana Singh Kangujam,Hockey,Male,,Manipur
+Manpreet Singh,Hockey,Male,,Punjab
+Sardar Singh,Hockey,Male,Rania,Haryana
+Uthappa S.K.,Hockey,Male,Kodagu,Karnataka
+Devindar Sunil Walmiki,Hockey,Male,,Maharashtra
+Sunil S.V.,Hockey,Male,Kodagu,Karnataka
+Akashdeep Singh,Hockey,Male,Tarn Taran,Punjab
+Ramandeep Singh,Hockey,Male,Gurdaspur,Punjab
+Chandanda Aiyanna Nikkin Thimmaiah,Hockey,Male,Virajpet,Karnataka
+Vikas Dahiya,Hockey,Male,,Haryana
+Pardeep Mor,Hockey,Male,,Haryana
+Navjot Kaur,Hockey,Female,Shahabad,Haryana
+Deep Grace Ekka,Hockey,Female,,Odisha
+Monika Malik,Hockey,Female,Chandigarh,Haryana
+Nikki Pradhan,Hockey,Female,,Jharkhand
+Anuradha Devi Thokchom,Hockey,Female,,Manipur
+Savita Punia,Hockey,Female,,Haryana
+Poonam Rani,Hockey,Female,,Haryana
+Vandana Katariya,Hockey,Female,,Uttar Pradesh
+Deepika Thakur,Hockey,Female,Jamuna Nagar,Haryana
+Namita Toppo,Hockey,Female,,Odisha
+Renuka Yadav,Hockey,Female,Rajnandgaon,Chhattishgarh
+Sunita Lakra,Hockey,Female,,Odisha
+Sushila Chanu Pukhrambam,Hockey,Female,,Manipur
+Rani Rampal,Hockey,Female,Shahbad,Haryana
+Preeti Dubey,Hockey,Female,Gwalior,Madhya Pradesh
+Lilima Minz,Hockey,Female,,Odisha
+Rajani Etimarpu,Hockey,Female,,Andhra Pradesh
+"Ruat Feli, Hnialum",Hockey,Female,,Mizoram
