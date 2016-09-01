@@ -1,0 +1,321 @@
+Rank,Name,Address,Telephone,Specialty
+1,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Cardio Sciences
+2,"Fortis Escorts Heart Institute & Research Centre, New Delhi","Okhla Road, Opp Holy Family Hospital, New Delhi, Delhi 110025",011-47135000,Cardio Sciences
+3,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Cardio Sciences
+4,"Narayana Hrudayalaya, Bangalore","258/A, Bommasandra Industrial Area, Hosur Road, Anekal Taluk, Bangalore, Karnataka 560099",080-71222222,Cardio Sciences
+5,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Cardio Sciences
+6,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Cardio Sciences
+7,"Jaslok Hospital & Research Centre, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Cardio Sciences
+8,"Bombay Hospital & Medical Research Centre, Mumbai","12, Marine Lines, Mumbai, Maharashtra 400020",022-22017241,Cardio Sciences
+9,"Breach Candy, Mumbai","60 A, Bhulabhai Desai Road, Mumbai, Maharashtra 400026",022-23667788,Cardio Sciences
+10,"Apollo Hospitals, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Cardio Sciences
+11,"Apollo Hospitals, Hyderabad","Jubilee Hills, Hyderabad 500033",04-02360805,Cardio Sciences
+12,"Rabindranath Tagore International Institute of Cardiac Sciences, Kolkata","124, Eastern Metropolitan Bypass, Mukundapur, Kolkata, West Bengal 700099",033-71222222,Cardio Sciences
+13,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Cardio Sciences
+14,"Sir Gangaram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Cardio Sciences
+15,"B.M. Birla Heart Research Centre, Kolkata","1/1, National Library Avenue, Kolkata, West Bengal 700027",033-30403040,Cardio Sciences
+16,"S.L. Raheja(A Fortis Associate) Hospital, Mumbai","Raheja Rugnalaya Marg, Mahim West, Mumbai, Maharashtra 400016",022-66529666,Cardio Sciences
+17,"Cumballa Hill Hospital & Heart Institute, Mumbai","93/ 95, August Kranti Marg, Near Kemps Corner, Mumbai, Maharashtra 400036",022-23888621,Cardio Sciences
+18,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Cardio Sciences
+19,"Dr.Balabhai Nanavati Hospital, Mumbai","Swami Vivekanand Road, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Cardio Sciences
+20,"Apollo Gleneagles Hospital, Kolkata","58, Canal Circular Road, Kadapara, Phool Bagan, Kolkata, West Bengal 700054",033-23203040,Cardio Sciences
+1,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Gastroenterology and Hepatology
+2,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Gastroenterology and Hepatology
+3,"P.D. Hinduja National Hospital and Medical Research Centre, Mumbai","Veer Savarkar Marg, Mahim, Mumbai, Maharashtra 400016",022-24451515,Gastroenterology and Hepatology
+4,"Sir Gangaram Hopsital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Gastroenterology and Hepatology
+5,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Gastroenterology and Hepatology
+6,"Apollo Hospitals, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Gastroenterology and Hepatology
+7,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Gastroenterology and Hepatology
+8,"Global Hospitals, Hyderabad","Sagar Road, LB Nagar, Hyderabad - 500 035, Telangana",040-24111111,Gastroenterology and Hepatology
+9,"Yashoda Hospitals, Hyderabad","Nalgonda X Roads, Malakpet, Hyderabad - 500036",040-45674567,Gastroenterology and Hepatology
+10,"Apollo Hospitals, Jubilee Hill, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Gastroenterology and Hepatology
+11,"Max Super Speciality Hospital, New Delhi","1,2, Press Enclave Road, Saket, New Delhi, Delhi 110017",011-26515050,Gastroenterology and Hepatology
+12,"Asian Institute of Gastroenterology, Somajiguda, Hyderabad","H.No. 6-3-661, Near Erra Manzil Bus Stop, Somajiguda, Hyderabad, Telangana 500082",040-23378888,Gastroenterology and Hepatology
+13,"Fortis Hospital, Phase VIII, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Gastroenterology and Hepatology
+14,"Global Health City, Chennai","#439, Cheran Nagar, Perumbakkam, Chennai, Tamil Nadu 600100",044-22777000,Gastroenterology and Hepatology
+15,"SIMS(SRM Institute of Medical Sciences), Chennai","No.1, Jawaharlal Nehru Salai ,100 Feet Road, Vadapalani, Chennai, Tamil Nadu 600026",044-20002001,Gastroenterology and Hepatology
+16,"The Calcutta Medical Research Institute(CMRI), Kolkata","No 7/2, Diamond Harbour Road, Kolkata, West Bengal 700027",033-30903090,Gastroenterology and Hepatology
+17,"Fortis Hospital, Kolkata","730, Anandapur, E.M. Bypass Road, Kolkata, West Bengal 700107",033-66284444,Gastroenterology and Hepatology
+18,"Apollo Gleneagles Hospital, Kolkata","58, Canal Circular Road, Kadapara, Phool Bagan, Kolkata, West Bengal 700054",033-23203040,Gastroenterology and Hepatology
+19,"Billroth Hospitals, Chennai","43, Lakshmi Talkies Road, Shenoy Nagar, Chennai-30",044-42921777,Gastroenterology and Hepatology
+20,"BGS Global Hospital, Bangalore","67, Uttarahalli Main Rd, Channasandra, Kengeri Satellite Town, Bengaluru, Karnataka 056060",080-26255555,Gastroenterology and Hepatology
+1,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Renal Sciences
+2,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Renal Sciences
+3,"Jaslok Hospital & Research Centre, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Renal Sciences
+4,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Renal Sciences
+5,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Renal Sciences
+6,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Renal Sciences
+7,"Artemis Hospitals, Gurgaon","Plot No. 14, Road Number 226, Sector 20, Near Metro Station 9, Dwarka, New Delhi, Delhi 110075",011-71111000,Renal Sciences
+8,"Global Health City, Chennai","#439, Cheran Nagar, Perumbakkam, Chennai, Tamil Nadu 600100",044-22777000,Renal Sciences
+9,"Max Super Speciality Hospital, New Delhi","1,2, Press Enclave Road, Saket, New Delhi, Delhi 110017",011-26515050,Renal Sciences
+10,"Sir Gangaram Hopsital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Renal Sciences
+11,"Apollo Hospital, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Renal Sciences
+12,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Renal Sciences
+13,"Ruby Hall Clinic, Pune","40, Sassoon Road, Pune, Maharashtra 411001",020-26163391,Renal Sciences
+14,"BGS Global Hospital, Bangalore","67, Uttarahalli Main Rd, Channasandra, Kengeri Satellite Town, Bengaluru, Karnataka 056060",080-26255555,Renal Sciences
+15,"Apollo Hospitals, Bangalore","BANGALORE 154/11, Opp IIM, Bannerghatta Road, Bangalore - 560076",080-26304050,Renal Sciences
+16,"Apollo Hospitals, Jubilee Hill, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Renal Sciences
+17,"Moolchand Medcity, New Delhi","Lajpat Nagar III, Near Moolchand Metro Station, New Delhi, Delhi 110024",011-42000000,Renal Sciences
+18,"The Calcutta Medical Research Institute(CMRI), Kolkata","No 7/2, Diamond Harbour Road, Kolkata, West Bengal 700027",033-30903090,Renal Sciences
+19,"Apollo Gleneagles Hospital, Kolkata","58, Canal Circular Road, Kadapara, Phool Bagan, Kolkata, West Bengal 700054",033-23203040,Renal Sciences
+20,"Fortis Hospital, Phase VIII, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Renal Sciences
+1,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Oncology
+2,"HCG Hospitals, Bangalore","M.S.Ramaiah Memorial Hospital MSR Nagar,MSRIT Post, Bangalore 560054",080-22182949,Oncology
+3,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Oncology
+4,"BGS Global Hospital, Bangalore","67, Uttarahalli Main Rd, Channasandra, Kengeri Satellite Town, Bengaluru, Karnataka 056060",080-26255555,Oncology
+5,"St. John's Medical College Hospital, Bangalore","Sarjapur Road, Opp BDA Complex, Bengaluru, Karnataka 560034",080-49466029,Oncology
+6,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Oncology
+7,"Artemis Hospitals, Gurgaon","Plot No. 14, Road Number 226, Sector 20, Near Metro Station 9, Dwarka, New Delhi, Delhi 110075",011-71111000,Oncology
+8,"HCG Cancer Centre, Ahmedabad","Sola-Science City Road, Off S.G. Highway, Sola, Ahmedabad, Gujarat 380060",079-40410101,Oncology
+9,"Dr.Balabhai Nanavati Hospital, Mumbai","Swami Vivekanand Road, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Oncology
+10,"Omega Hospitals, Banjara Hills, Hyderabad","No. 8-2-293/82/L/276A, MLA Colony, Road No. 12, Banjara Hills, Hyderabad, Telangana 500034",040-23551034,Oncology
+11,"Jaslok Hospital & Research Centre, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Oncology
+12,"Asian Institute of Oncology, Mumbai","Ground Floor, K. J. Somaiya Hospital, Campus, Off Eastern Express Highway, Sion(East), Mumbai - 400 022",022-24066800,Oncology
+13,"Max Institute of Oncology(Cancer Care), New Delhi","1,2, Press Enclave Road, Saket, New Delhi, Delhi 110017",011-26515050,Oncology
+14,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Oncology
+15,"Apollo Hospital, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Oncology
+16,"Global Health City, Chennai","#439, Cheran Nagar, Perumbakkam, Chennai, Tamil Nadu 600100",044-22777000,Oncology
+17,"Apollo Hospitals, Jubilee Hill, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Oncology
+18,"Bombay Hospital & Medical Research Centre, Mumbai","12, Marine Lines, Mumbai, Maharashtra 400020",022-22017241,Oncology
+19,"P.D. Hinduja National Hospital and Medical Research Centre, Mumbai","Veer Savarkar Marg, Mahim, Mumbai, Maharashtra 400016",022-24451515,Oncology
+20,"MIOT Hospitals, Chennai","4/112, Mount Poonamalle Road, Manapakkam, Chennai, Tamil Nadu 600089",044-22492288,Oncology
+1,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Paediatrics
+2,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Paediatrics
+3,"Rainbow Children's Hospital, Hyderabad","Banjara Hills. 22, Road No - 4, (old road no-10), Karvy Lanes, Banjara Hills, Hyderabad - 500 034",040-23319191,Paediatrics
+4,"Apollo Hospital, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Paediatrics
+5,"Yashoda Hospitals, Hyderabad","Nalgonda X Roads, Malakpet, Hyderabad - 500036",040-45674567,Paediatrics
+6,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Paediatrics
+7,"Apollo Hospitals, Jubilee Hill, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Paediatrics
+8,"Max Super Speciality Hospital, New Delhi","1,2, Press Enclave Road, Saket, New Delhi, Delhi 110017",011-26515050,Paediatrics
+9,"Sir Gangaram Hopsital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Paediatrics
+10,"Fortis Hospital, Phase VIII, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Paediatrics
+11,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Paediatrics
+12,"Dr.Balabhai Nanavati Hospital, Mumbai","Swami Vivekanand Road, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Paediatrics
+13,"Ruby Hall Clinic, Pune","40, Sassoon Road, Pune, Maharashtra 411001",020-26163391,Paediatrics
+14,"Jaslok Hospital & Research Centre, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Paediatrics
+15,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Paediatrics
+16,"Vikram Hospitals, Bangalore","No.71/1, Millers Road, Opp. St. Anne's College, Bengaluru, Karnataka 560052",080-71004500,Paediatrics
+17,"Surya Children's Medicare, Mumbai","Swami Vivekanand Road, Santacruz West, Mumbai, Maharashtra 400050",022-61538989,Paediatrics
+18,"Artemis Hospitals, Gurgaon","Plot No. 14, Road Number 226, Sector 20, Near Metro Station 9, Dwarka, New Delhi, Delhi 110075",011-71111000,Paediatrics
+19,"Fortis Hospital, Bangalore","154/9, Bannerghatta Road, Opposite IIM-B, Bengaluru, Karnataka 560076",080-66214444,Paediatrics
+20,"Bhagirathi Neotia Woman & Child Care Centre, Kolkata","2, Rawdon Street, Kolkata 700 017",033-40405000,Paediatrics
+1,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Gynaecology and Obstetrics
+2,"Apollo Hospital, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Gynaecology and Obstetrics
+3,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Gynaecology and Obstetrics
+4,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Gynaecology and Obstetrics
+5,"Fortis La Femme-Maternity and Child Care, New Delhi","S - 549, Greater Kailash - II, New Delhi, Delhi 110048",011-40579400,Gynaecology and Obstetrics
+6,"Max Super Speciality Hospital, New Delhi","1,2, Press Enclave Road, Saket, New Delhi, Delhi 110017",011-26515050,Gynaecology and Obstetrics
+7,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Gynaecology and Obstetrics
+8,"Sir Gangaram Hopsital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Gynaecology and Obstetrics
+9,"P.D. Hinduja National Hospital and Medical Research Centre, Mumbai","Veer Savarkar Marg, Mahim, Mumbai, Maharashtra 400016",022-24451515,Gynaecology and Obstetrics
+10,"The BirthPlace, Banjara Hills, Hyderabad","Road No. 2, Banjara Hills, Andhra Pradesh Real Estate, Green Valley, Banjara Hills, Hyderabad, Telangana 500034,",040-67139999,Gynaecology and Obstetrics
+11,"Rainbow Perinatal Centre, Hyderabad","22, Road No. 4, (Old Road No. 10), Karvy Lanes, Banjara Hills, Hyderabad, Telangana 500034",040-23319191,Gynaecology and Obstetrics
+12,"Surya Children's Medicare, Mumbai","Swami Vivekanand Road, Santacruz West, Mumbai, Maharashtra 400050",022-61538989,Gynaecology and Obstetrics
+13,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Gynaecology and Obstetrics
+14,"Cloudnine Hospital, Bangalore","Jayanagar, #1533, 9th Main, 3rd Block, Jayanagar, Bengaluru, 560011",186-05009999,Gynaecology and Obstetrics
+15,"Fernandez Hospitals, Hyderabad","4-1-1230, Near Brand Factory, Bogulkunta, Abids, Hyderabad, Telangana 500001",040-40222300,Gynaecology and Obstetrics
+16,"Max Super Speciality Hospital, New Delhi","108 A, Indraprastha Extension, New Delhi, Delhi 110092",011-43033333,Gynaecology and Obstetrics
+17,"Hinduja Healthcare Surgical, Mumbai","724, 11th Road, Khar West, Mumbai, Maharashtra 400052",022-30918989,Gynaecology and Obstetrics
+18,"Jaslok Hospital & Research Centre, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Gynaecology and Obstetrics
+19,"Bombay Hospital & Medical Research Centre, Mumbai","12, Marine Lines, Mumbai, Maharashtra 400020",022-22017241,Gynaecology and Obstetrics
+20,"Fortis Hospital, Mulund, Mumbai","Mulund Goregaon Link Road, Mulund-West, Mumbai, Maharashtra 400078",022-43654365,Gynaecology and Obstetrics
+1,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Emergency and Trauma
+2,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Emergency and Trauma
+3,"Fortis Escorts Heart Institute & Research Centre, New Delhi","Okhla Road, Opp Holy Family Hospital, New Delhi, Delhi 110025",011-47135000,Emergency and Trauma
+4,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Emergency and Trauma
+5,"Apollo Hospital, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Emergency and Trauma
+6,"Max Super Speciality Hospital, New Delhi","1,2, Press Enclave Road, Saket, New Delhi, Delhi 110017",011-26515050,Emergency and Trauma
+7,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Emergency and Trauma
+8,"Fortis Hospital, Phase VIII, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Emergency and Trauma
+9,"Sir Gangaram Hopsital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Emergency and Trauma
+10,"Apollo Hospitals, Jubilee Hill, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Emergency and Trauma
+11,"Yashoda Hospitals, Hyderabad","Nalgonda X Roads, Malakpet, Hyderabad - 500036",040-45674567,Emergency and Trauma
+12,"Manipal Hospital, Bangalore","98, Opposite, Leela Palace Rd, Kodihalli, Bengaluru, Karnataka 560017",1800-30014000,Emergency and Trauma
+13,"BGS Global Hospital, Bangalore","67, Uttarahalli Main Rd, Channasandra, Kengeri Satellite Town, Bengaluru, Karnataka 056060",080-26255555,Emergency and Trauma
+14,"Global Health City, Chennai","#439, Cheran Nagar, Perumbakkam, Chennai, Tamil Nadu 600100",044-22777000,Emergency and Trauma
+15,"Max Super Speciality Hospital, Chandigarh","Near Civil Hospital, Phase-VI, Sector 56A, Sahibzada Ajit Singh Nagar, Punjab 160055",017-26652000,Emergency and Trauma
+16,"SIMS(SRM Institute of Medical Sciences), Chennai","No.1, Jawaharlal Nehru Salai ,100 Feet Road, Vadapalani, Chennai, Tamil Nadu 600026",044-20002001,Emergency and Trauma
+17,"Ruby Hall Clinic, Pune","40, Sassoon Road, Pune, Maharashtra 411001",020-26163391,Emergency and Trauma
+18,"Fortis Hospital, Kolkata","730, Anandapur, E.M. Bypass Road, Kolkata, West Bengal 700107",033-66284444,Emergency and Trauma
+19,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Emergency and Trauma
+20,"Apollo Gleneagles Hospital, Kolkata","58, Canal Circular Road, Kadapara, Phool Bagan, Kolkata, West Bengal 700054",033-23203040,Emergency and Trauma
+1,"Milann-The Fertility Centre, Bangalore","#7, East Park Road, Kumara Park East, Bengaluru  560 001",18004-07645266,Fertility Sciences
+2,"Nova IVI Fertility, RK Puram Sec 2, New Delhi","1A, Opposite to St. Thomas Church,Africa Ave, Sector 2 R K Puram, Block B 2, Safdarjung Enclave, New Delhi, Delhi 110029",011-66193700,Fertility Sciences
+3,"Bavishi Fertility Institute, Ahmedabad","Opposite Manjulal Muncipal Garden, Next to Adani CNG and Gajarawala Flats, Paldi Crossroads, Paldi, Ahmedabad, Gujarat 380007",079-26574903,Fertility Sciences
+4,"Nova IVI Fertility, Ahmedabad","108, Swastik Society Road, Behind .Xavier's Ladies Hostel, Navrangpura, Ahmedabad, Gujarat 380009",180-01032229,Fertility Sciences
+5,"Centre of IVF & Human Production - Sir Ganga Ram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-42251777,Fertility Sciences
+6,"Gunasheela Surgical & Maternity Hospital, Bangalore","1, Dewan Madhava Road, Basavanagudi, Opposite M. N. Krishna Rao Park, Near Basavangudi Police Station, Bengaluru, Karnataka 560004",080-26673590,Fertility Sciences
+7,"Jaslok Hospital & Research Centre - IVF, Mumbai","IVF Department, 8th Floor, Jaslok Hospital and Research Center, Dr. G. Deshmukh Road, Mumbai, Maharashtra 400026",022-66573175,Fertility Sciences
+8,"Gaudium IVF Gynae Solutions, New Delhi","A - 41 Chander Nagar, Janakpuri West Metro Station, Janakpuri, New Delhi - 110058",011-69413434,Fertility Sciences
+9,"Oasis Centre for Reproductive Medicine, Hyderabad","No. 8-2-269/3/1/4, Near NATCO Pharma, Banjara Hills Road No. 2, Hyderabad, Telangana 500034",040-42417771,Fertility Sciences
+10,"GBR Clinic & Fertility Centre, Chennai","HIG - 1027, 06th Main Road, Mugappair Eri Scheme, Mugappair West, Chennai, Tamil Nadu 600037",044-45512223,Fertility Sciences
+11,"Fortis Bloom IVF Centre - Fortis La Femme Hospital, New Delhi",New Delhi,011-40579400,Fertility Sciences
+12,"Bavishi Fertility Institute, Mumbai","1st Floor, Rajawadi Signal, M.G Road,, Jayant Arcade, Mahatma Gandhi Road, Rajawadi Colony, Ghatkopar East, Mumbai, Maharashtra 400077",022-67412222,Fertility Sciences
+13,"Care IVF, Kolkata","88B, Sarat Bose Rd, Ballygunge, Kolkata, West Bengal 700026",081-00400300,Fertility Sciences
+14,"Prasanth Fertility Research Centre, Chennai","No.77, Harrington Road, Chetpet, Behind Pachayappas College,Near Harrington Subway, Chennai, Tamil Nadu 600031",044-42277777,Fertility Sciences
+15,"Jindal IVF & Sant Memorial Nursing Home, Chandigarh","House No. 3050, Sector 20D, Dakshin Marg, Chandigarh, 160020",017-24911000,Fertility Sciences
+16,"Fortis Hospital, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Fertility Sciences
+17,"IRM, Kolkata","HB-36/A/3, 1st Cross Rd, HB Block, Sector III, Bidhannagar, West Bengal 700106",033-23215125,Fertility Sciences
+18,"CRAFT Hospital & Research Centre, Thrissur","Kodungallur Eriyad Road, Kodungallur, Thrissur, Kerala 680664",048-02800200,Fertility Sciences
+19,"Indira IVF, Udaipur","2nd Floor, Monilek Hospital & Research, Centre, Sector-4, Jawahar Nagar, Jaipur , (Rajasthan) 302004",076-65009952,Fertility Sciences
+20,"Hiranandani Hospital, A Fortis Network Hospital, Vashi, Mumbai","Mini Sea Shore Road, Sector 10, Vashi, Navi Mumbai,Maharashtra 400703",022-39199222,Fertility Sciences
+1,"Mohak Bariatrics and Robotic, Mohak Hitech Specialty Hospital, Indore","Indore-Ujjain State Highway, MR-10 Crossing, Indore, Madhya Pradesh 453111",9.17E+11,Bariatric
+2,"Apollo Hospitals, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Bariatric
+3,"Asian Bariatrics, Ahmedabad","S.G. Highway, Opp Rajpath Club, Bodakdev, Ahmedabad, Gujarat 380054",1800-30023002,Bariatric
+4,"Apollo Obesity and Metabolic Surgery Centre, Sarita Vihar, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-29871090,Bariatric
+5,"Fortis Hospital, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Bariatric
+6,"Max Super Specialty Hospital, Saket, New Delhi","1,2, Press Enclave Road, Mandir Marg, Saket, New Delhi, Delhi 110017",011-26515050,Bariatric
+7,"Saifee Hospital, Mumbai","No. 15/17, Maharshi Karve Road, Opposite Charni Road Railway Station, Mumbai, Maharashtra 400004",022-67570111,Bariatric
+8,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Bariatric
+9,"Apollo Health City, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Bariatric
+10,"Sir Gangaram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Bariatric
+11,"LivLife Hospital, Hyderabad","Plot No 729, Road Number 36, Jubilee Hills, Opposite Neerus, Aditya Enclave House, Hyderabad, Telangana 500033",040-30888888,Bariatric
+12,"Jaslok Hospital, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Bariatric
+13,"Dr. L H Hiranandani Hospital, Mumbai","Hill Side Avenue, Hiranandani Gardens, Powai, Mumbai 400076",022-25763300,Bariatric
+14,"Asian Heart Institute(LivLife Hospital), Mumbai","G / N Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",022-66986666,Bariatric
+15,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Bariatric
+16,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Bariatric
+17,"GEM Hospital & Research Centre, Coimbatore","45, Pankaja Mills Rd, Sowripalayam Pirivu, Ramanathapuram, Coimbatore, Tamil Nadu 641045",0422-2324105,Bariatric
+18,"Fortis Hospital, Mulund, Mumbai","Mulund Goregaon Link Road, Mulund-West, Mumbai, Maharashtra 400078",022-43654365,Bariatric
+19,"Continental Hospitals, A Gleneagles Facility, Hyderabad","Plot No.3, Road No.2,IT & Financial Dist, Nanakramguda, Gachibowli, Hyderabad - 500032",040-67000000,Bariatric
+20,"Nanavati Super Specialty Hospital, Mumbai","Swami Vivekanand Rd, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Bariatric
+1,"Apollo Hospital, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Orthopedics
+2,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Orthopedics
+3,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Orthopedics
+4,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Orthopedics
+5,"Indian Spinal Injuries Centre(ISIC), New Delhi","Opp Vasant Valley School, Sector C, Vasant Kunj, New Delhi, Delhi 110070",011-42255200,Orthopedics
+6,"Jaslok Hospital, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Orthopedics
+7,"Sir Ganga Ram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Orthopedics
+8,"Fortis Hospital, Mulund, Mumbai","Mulund Goregaon Link Road, Mulund-West, Mumbai, Maharashtra 400078",022-43654365,Orthopedics
+9,"Dr. L H Hiranandani Hospital, Mumbai","Hill Side Avenue, Hiranandani Gardens, Powai, Mumbai 400076",022-25763300,Orthopedics
+10,"Breach Candy, Mumbai","60 A, Bhulabhai Desai Road, Mumbai, Maharashtra 400026",022-23667788,Orthopedics
+11,"Max Super Specialty Hospital, Saket, New Delhi","1,2, Press Enclave Road, Saket, New Delhi, Delhi 110017",011-26515050,Orthopedics
+12,"P.D. Hinduja National Hospital and Medical Research Centre, Mumbai","Veer Savarkar Marg, Mahim, Mumbai, Maharashtra 400016",022-24451515,Orthopedics
+13,"MGM Hospitals, Mumbai","33, Sahitya Mandir Marg, Sector 4, Vashi Vashi Mumbai, Maharashtra 400703",022-61526666,Orthopedics
+14,"Nanavati Super Specialty Hospital, Mumbai","Swami Vivekanand Rd, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Orthopedics
+15,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Orthopedics
+16,"Fortis Flt Lt Rajan Dhall Hospital, New Delhi","Sector B, Pocket 1, Aruna Asaf Ali Marg,Vasant Kunj, New Delhi, Delhi 110070",011-42776222,Orthopedics
+17,"Kohinoor Hospital, Mumbai","Kirol Road, Off near pheonix mall, Lal Bahadur Shastri Marg, Kurla West, Mumbai, Maharashtra 400070",022-67556755,Orthopedics
+18,"Apollo Health City, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Orthopedics
+19,"SIMS(SRM Institute of Medical Sciences), Chennai","No.1, Jawaharlal Nehru Salai ,100 Feet Road, Vadapalani, Chennai, Tamil Nadu 600026",044-20002001,Orthopedics
+20,"Continental Hospitals, A Gleneagles Facility, Hyderabad","Plot No.3, Road No.2,IT & Financial Dist, Nanakramguda, Gachibowli, Hyderabad - 500032",040-67000000,Orthopedics
+1,"M.V. Hospital for Diabetes & Diabetes Research Centre, Chennai","No.4, West Mada Church Street, Royapuram, Chennai, Tamil Nadu 600013",044-25954913,Diabetology
+2,"Apollo Hospitals(Apollo Sugar), Chennai","Apollo Sugar Clinic,T'Nagar,No 175, GN Chetty Road, T Nagar, Chennai – 600017",044-28155316,Diabetology
+3,"Dr. Mohan's Diabetes Hospitals, Chennai","Old No. 69, New No. 70, Kasturibai Nagar, 3rd Main Road, Adyar, Chennai - 600020",044-42117888,Diabetology
+4,"Dr. A. Ramachandran's Diabetes Hospitals, Chennai"," No.110, Anna Salai, Guindy, Opp ITC Grand Chola Hotel, Chennai, Tamil Nadu 600032",044-42162003,Diabetology
+5,"Indraprastha Apollo Hospitals(Apollo Sugar), New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Diabetology
+6,"Breach Candy, Mumbai","60 A, Bhulabhai Desai Road, Mumbai, Maharashtra 400026",022-23667788,Diabetology
+7,"Max Super Specialty Hospital, Saket, New Delhi","1,2, Press Enclave Road, Mandir Marg, Saket, New Delhi, Delhi 110017",011-26515050,Diabetology
+8,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Diabetology
+9,"Jaslok Hospital, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Diabetology
+10,"Nanavati Super Specialty Hospital, Mumbai","Swami Vivekanand Rd, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Diabetology
+11,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Diabetology
+12,"Sir Ganga Ram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Diabetology
+13,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Diabetology
+14,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Diabetology
+15,"S. L. Raheja Fortis Associate Hospital, Mumbai","Raheja Rugnalaya Marg, Mahim (W), Mumbai, Maharashtra - 400016",022-66529888,Diabetology
+16,"Apollo Health City(Apollo Sugar), Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Diabetology
+17,"P.D. Hinduja National Hospital and Medical Research Centre, Mumbai","Veer Savarkar Marg, Mahim, Mumbai, Maharashtra 400016",022-24451515,Diabetology
+18,"Lakeshore Hospital & Research Center, Kochi","NH-47 Bypass, Maradu, Nettoor P.O, Kochi - 682040 Kerala",048-42701032,Diabetology
+19,"Fortis Hospital, Mulund, Mumbai","Mulund Goregaon Link Road, Mulund-West, Mumbai, Maharashtra 400078",022-43654365,Diabetology
+20,"Dr. L H Hiranandani Hospital, Mumbai","Hill Side Avenue, Hiranandani Gardens, Powai, Mumbai 400076",022-25763300,Diabetology
+1,"Apollo Hospitals, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Skin & Derma
+2,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Skin & Derma
+3,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Skin & Derma
+4,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Skin & Derma
+5,"Nanavati Super Specialty Hospital, Mumbai","Swami Vivekanand Rd, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Skin & Derma
+6,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Skin & Derma
+7,"Max Super Specialty Hospital, Saket, New Delhi","1,2, Press Enclave Road, Mandir Marg, Saket, New Delhi, Delhi 110017",011-26515050,Skin & Derma
+8,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Skin & Derma
+9,"Sir Ganga Ram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Skin & Derma
+10,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Skin & Derma
+11,"Fortis Hospital, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Skin & Derma
+12,"Alchemist Hospital, Panchkula","Sector 21, Panchkula, Haryana 134112",017-24500000,Skin & Derma
+13,"Amrita Institute of Medical Sciences, Cochin","Ponekkara, Edappally, Kochi, Kerala 682041",048-42801234,Skin & Derma
+14,"Apollo Health City, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Skin & Derma
+15,"Moolchand Hospital, New Delhi","Lajpat Nagar III, Near Moolchand Metro Station, New Delhi, Delhi 110024",011-42000000,Skin & Derma
+16,"Apollo Hospitals International, Gandhinagar","Plot no.1 A, Bhat GIDC Estate, Gandhinagar, 382428, Gujarat",079-66701800,Skin & Derma
+17,"Max Super Specialty Hospital, Patparganj, New Delhi","Patparganj, Delhi",088-60444888,Skin & Derma
+18,"Paras Hospital, Gurgaon","C-1, Sushant Lok-1, Sector - 43 Phase - I, Gurgaon, Haryana - 122002 ",012-44585555,Skin & Derma
+19,"Jaslok Hospital, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Skin & Derma
+20,"Fortis Hospital, Mulund, Mumbai","Mulund Goregaon Link Road, Mulund-West, Mumbai, Maharashtra 400078",022-43654365,Skin & Derma
+1,"Indraprastha Apollo Hospitals, New Delhi","Mathura Road, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Cosmetic & Plastic Surgery
+2,"Apollo Hospitals, Chennai","21, Greams Lane, Off Greams Road, Chennai - 600006",044-28290200,Cosmetic & Plastic Surgery
+3,"Fortis Hospital, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Cosmetic & Plastic Surgery
+4,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Cosmetic & Plastic Surgery
+5,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Cosmetic & Plastic Surgery
+6,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Cosmetic & Plastic Surgery
+7,"Max Super Specialty Hospital, Saket, New Delhi","1,2, Press Enclave Road, Mandir Marg, Saket, New Delhi, Delhi 110017",011-26515050,Cosmetic & Plastic Surgery
+8,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Cosmetic & Plastic Surgery
+9,"Sir Ganga Ram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Cosmetic & Plastic Surgery
+10,"Fortis Hospital, Shalimar Bagh, New Delhi","A Block, Shalimar Bagh, Opposite Kela Godam, New Delhi, Delhi 110088",011-45302222,Cosmetic & Plastic Surgery
+11,"Jaslok Hospital, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Cosmetic & Plastic Surgery
+12,"Fortis Hospital, Mulund, Mumbai","Mulund Goregaon Link Road, Mulund-West, Mumbai, Maharashtra 400078",022-43654365,Cosmetic & Plastic Surgery
+13,"Nanavati Super Specialty Hospital, Mumbai","Swami Vivekanand Rd, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Cosmetic & Plastic Surgery
+14,"Apollo Health City, Hyderabad","Jubilee Hills, Hyderabad, Telangana 500033",040-60601066,Cosmetic & Plastic Surgery
+15,"SIMS(SRM Institute of Medical Sciences), Chennai","No.1, Jawaharlal Nehru Salai ,100 Feet Road, Vadapalani, Chennai, Tamil Nadu 600026",044-20002001,Cosmetic & Plastic Surgery
+16,"SIPS Superspecialty Hospital, Lucknow","29-, Shahmeena Road (Road from Buddha Park to Medical College), Lucknow, U.P.",052-22258888,Cosmetic & Plastic Surgery
+17,"Alchemist Hospital, Panchkula","Sector 21, Panchkula, Haryana 134112",017-24500000,Cosmetic & Plastic Surgery
+18,"Continental Hospitals, A Gleneagles Facility, Hyderabad","Plot No.3, Road No.2,IT & Financial Dist, Nanakramguda, Gachibowli, Hyderabad - 500032",040-67000000,Cosmetic & Plastic Surgery
+19,"Ganga Hospital, Coimbatore","No. 313, Mettupalayam Road, Saibaba Koil, Coimbatore, Tamil Nadu 641043",042-22485000,Cosmetic & Plastic Surgery
+20,"Sunshine Hospitals, Hyderabad","Penderghast Road, Opposite Parsi Dharamsala, Behind Paradise Hotel, Secunderabad, Telangana 500003",040-44550000,Cosmetic & Plastic Surgery
+1,"Fortis Hospital, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Trichology
+2,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Trichology
+3,"Apollo Cosmetics(Apollo Hospitals), Chennai","Sathyadev Avenue, MRC Nagar, RA Puram, Chennai - 600028, Tamil Nadu",044-66862080,Trichology
+4,"Max Super Specialty Hospital, Saket, New Delhi","1,2, Press Enclave Road, Mandir Marg, Saket, New Delhi, Delhi 110017",011-26515050,Trichology
+5,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Trichology
+6,"Lilavati Hospital and Research Centre, Mumbai","A - 791, Bandra Reclamation, Bandra West, Mumbai, Maharashtra 400050",022-26751000,Trichology
+7,"Apollo Indraprastha Hospital, New Delhi","Delhi Mathura Road, Near Jasola Apollo Metro Station, Sarita Vihar, New Delhi, Delhi 110076",011-26925858,Trichology
+8,"Dr. L H Hiranandani Hospital, Mumbai","Hill Side Avenue, Hiranandani Gardens, Powai, Mumbai 400076",022-25763300,Trichology
+9,"Artemis Hospitals, Gurgaon","Plot No. 14, Road Number 226, Sector 20, Near Metro Station 9, Dwarka, New Delhi, Delhi 110075",011-71111000,Trichology
+10,"Moolchand Hospital, New Delhi","Lajpat Nagar III, Near Moolchand Metro Station, New Delhi, Delhi 110024",011-42000000,Trichology
+11,"HCG Multi Specialty Hospital, Ahmedabad"," Mithakhali Six Road, Maharashtra Society, Ellisbridge, Ahmedabad, Gujarat 380006",079-40010101,Trichology
+12,"Jaslok Hospital, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Trichology
+13,"Fortis Hospital, Mulund, Mumbai","Mulund Goregaon Link Road, Mulund-West, Mumbai, Maharashtra 400078",022-43654365,Trichology
+14,"Nanavati Super Specialty Hospital, Mumbai","Swami Vivekanand Rd, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Trichology
+15,"Medanta the Medicity, Gurgaon","CH Baktawar Singh Road, Sector 38, Near Rajiv Chowk, Gurgaon, Haryana 122001",012-44141414,Trichology
+16,"Breach Candy, Mumbai","60 A, Bhulabhai Desai Road, Mumbai, Maharashtra 400026",022-23667788,Trichology
+17,"Max Super Specialty Hospital, Patparganj, New Delhi","Patparganj, Delhi",088-60444888,Trichology
+18,"Sir Ganga Ram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Trichology
+19,"P.D. Hinduja National Hospital and Medical Research Centre, Mumbai","Veer Savarkar Marg, Mahim, Mumbai, Maharashtra 400016",022-24451515,Trichology
+20,"Alchemist Hospital, Panchkula","Sector 21, Panchkula, Haryana 134112",017-24500000,Trichology
+1,"L V Prasad Eye Institute, Hyderabad","Kallam Anji Reddy Campus, L V Prasad Marg, Banjara Hills, Opp. PVR, Hyderabad, Telangana 500034",040-30612345,Ophthalmology
+2,"Sankara Nethralaya, Chennai","No. 18, College Road, Nungambakkam, Chennai - 600 006, Tamil Nadu",044-42271500,Ophthalmology
+3,"Narayana Nethralaya, Bangalore","121/C, Chord Road, 1st ‘R’ Block, Rajaji Nagar, Bengaluru, Karnataka 560010",080-66121300,Ophthalmology
+4,"Nanavati Super Specialty Hospital, Mumbai","Swami Vivekanand Rd, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Ophthalmology
+5,"Dr. Agarwal Eye Hospital, Chennai","No. M 49/50, Classic Royal , 1st floor, L.B Road, Opp IMCOPS, Indira Nagar, Chennai - 600 020",044-45576788,Ophthalmology
+6,"Aravind Eye Hospital, Madurai","No 1, Anna Nagar, Thirunagar, Madurai, Tamil Nadu 625021",045-24356100,Ophthalmology
+7,"Shroff Eye Centre, New Delhi","A-9, Kailash Colony, New Delhi - 110 048",011-41633999,Ophthalmology
+8,"Indraprastha Apollo Hospitals, New Delhi","Delhi Mathura Road, Near Jasola Apollo Metro Station, Sarita Vihar, New Delhi, Delhi 110076",011- 26925858,Ophthalmology
+9,"Max Super Specialty Hospital, Saket, New Delhi","1,2, Press Enclave Road, Mandir Marg, Saket, New Delhi, Delhi 110017",011-26515050,Ophthalmology
+10,"Amrita Institute of Medical Sciences, Cochin","Ponekkara, Edappally, Kochi, Kerala 682041",048-42801234,Ophthalmology
+11,"Jaslok Hospital, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Ophthalmology
+12,"Fortis Hospital, Mulund, Mumbai","Mulund Goregaon Link Road, Mulund-West, Mumbai, Maharashtra 400078",022-43654365,Ophthalmology
+13,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Ophthalmology
+14,"Centre for Sight, Delhi","B- 5/24, Safdarjung Enclave, Opp. Deer Park, New Delhi - 110029",011-45738888,Ophthalmology
+15,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Ophthalmology
+16,"Asian Eye Institute & Laser Centre, Mumbai","Irani Building, 1st Floor, Next To Dadar post Office, 174, Dr Ambedkar Road, Lokmanya Tilak Colony, Dadar East, Greater Mumbai, Maharashtra 400014",022-24180124,Ophthalmology
+17,"Dr. L H Hiranandani Hospital, Mumbai","Hill Side Avenue, Hiranandani Gardens, Powai, Mumbai 400076",022-25763300,Ophthalmology
+18,"National Institute of Opthalmology(NIO), Pune","1187/30, Off Ghole Road, Near Mahatama Phule Museum, Shivaji Nagar, Pune, Maharashtra 411005",020-25536369,Ophthalmology
+19,"Jupiter Hospital, Mumbai","Eastern Express Highway, On service Rd, Next To Viviana Mall,, Thane, Maharashtra 400601",022-21726666,Ophthalmology
+20,"Kohinoor Hospital, Mumbai","Kirol Road, Off near pheonix mall, Lal Bahadur Shastri Marg, Kurla West, Mumbai, Maharashtra 400070",022-67556755,Ophthalmology
+1,"Max Super Specialty Hospital, Saket, New Delhi","1,2, Press Enclave Road, Mandir Marg, Saket, New Delhi, Delhi 110017",011-26515050,Dentistry
+2,"Kokilaben Dhirubhai Ambani Hospital & Medical Research Institute, Mumbai","Rao Saheb Achutrao, Patwardhan Marg, Four Bunglows, Mumbai, Maharashtra 400053",022-30666666,Dentistry
+3,"Nanavati Super Specialty Hospital, Mumbai","Swami Vivekanand Road, Vile Parle West, Mumbai, Maharashtra 400056",022-26267500,Dentistry
+4,"Balaji Dental and Craniofacial Hospital, Chennai","30, Kavignar Bharathi Dasan Road, Teynampet, Chennai, Tamil Nadu 600018",044-42947222,Dentistry
+5,"Yashoda Hospitals, Hyderabad","Nalgonda X Roads, Malakpet, Hyderabad - 500036",040-45674567,Dentistry
+6,"Fortis Memorial Research Institute, Gurgaon","Sector - 44, Opposite HUDA City Centre, Gurgaon, Haryana 122002",012-44962200,Dentistry
+7,"Kailash Hospital, Noida","H-33, H Block, Sector 27, Noida, Uttar Pradesh 201301",012-02444444,Dentistry
+8,"Primus Super Specialty Hospital, New Delhi","2, Chandragupt Marg, Chanakyapuri, New Delhi, Delhi 110021",011-66206630,Dentistry
+9,"Narayana Health, Bangalore","#258 /A, Narayana Health City, Bommasandra Industrial Area, Anekal Hosur Road, Bengaluru, Karnataka 560099",1800-2121244,Dentistry
+10,"Jaslok Hospital, Mumbai","15, Dr. Deshmukh Marg, Pedder Road, Mumbai, Maharashtra 400026",022-66573333,Dentistry
+11,"Fortis Hiranandani Hospital(Department of Dentistry), Mumbai","Mini Sea Shore Road, Sector 10, Vashi, Navi Mumbai, Maharashtra 400703",022-39199222,Dentistry
+12,"Fortis Hospital, Mohali","Sector 62, Phase - VIII, Sahibzada Ajit Singh Nagar, Punjab 160062",017-24692222,Dentistry
+13,"Fortis Flt Lt Rajan Dhall Hospital, New Delhi","Sector B, Pocket 1, Aruna Asaf Ali Marg,Vasant Kunj, New Delhi, Delhi 110070",011-42776222,Dentistry
+14,"Jupiter Hospital, Mumbai","Eastern Express Highway, On service Rd, Next To Viviana Mall,, Thane, Maharashtra 400601",022-21726666,Dentistry
+15,"Breach Candy, Mumbai","60 A, Bhulabhai Desai Road, Mumbai, Maharashtra 400026",022-23667788,Dentistry
+16,"Sir Ganga Ram Hospital, New Delhi","Rajinder Nagar, New Delhi, Delhi 110060",011-25750000,Dentistry
+17,"BLK Super Speciality Hospital, New Delhi","5, Pusa Road, New Delhi, Delhi 110005",011-30403040,Dentistry
+18,"Bombay Hospital, Mumbai","12, Marine Lines, Mumbai, Maharashtra 400020",022-22067676,Dentistry
+19,"Fortis Hospital, Bangalore","154/9, Bannerghatta Road, Opposite IIM-B, Bengaluru, Karnataka 560076",080-66214444,Dentistry
+20,"P.D. Hinduja National Hospital and Medical Research Centre, Mumbai","Veer Savarkar Marg, Mahim, Mumbai, Maharashtra 400016",022-24451515,Dentistry
